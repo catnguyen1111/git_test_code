@@ -1,4 +1,4 @@
 nội dung a
 
-beta thay dổi nội dung
+
 master thay đổi nội dung
